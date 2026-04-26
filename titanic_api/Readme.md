@@ -6,3 +6,9 @@
 
 <img width="1676" height="1453" alt="image" src="https://github.com/user-attachments/assets/1264f95b-e66d-48ab-857a-f71cf71da5d7" />
 
+
+=================
+PYTHON REQUESTS
+=================
+
+<img width="1770" height="1160" alt="image" src="https://github.com/user-attachments/assets/7832281b-75b8-4683-8b24-9c1efe88f6a2" />
