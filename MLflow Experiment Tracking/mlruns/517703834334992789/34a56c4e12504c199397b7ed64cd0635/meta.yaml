@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/101 Mahcine Learning/Projects/Scikit-Learn/MLflow Experiment
+  Tracking/mlruns/517703834334992789/34a56c4e12504c199397b7ed64cd0635/artifacts
+end_time: 1777264874808
+entry_point_name: ''
+experiment_id: '517703834334992789'
+lifecycle_stage: active
+run_id: 34a56c4e12504c199397b7ed64cd0635
+run_name: candidate_00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777264874752
+status: 3
+tags: []
+user_id: areeb

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/101 Mahcine Learning/Projects/Scikit-Learn/MLflow Experiment
+  Tracking/mlruns/517703834334992789/9874563b5b344bee9fbec1a09ba2d766/artifacts
+end_time: 1777264886417
+entry_point_name: ''
+experiment_id: '517703834334992789'
+lifecycle_stage: active
+run_id: 9874563b5b344bee9fbec1a09ba2d766
+run_name: RandomForest-BestModel-Final
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777264880422
+status: 3
+tags: []
+user_id: areeb

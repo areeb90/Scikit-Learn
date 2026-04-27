@@ -1,0 +1,9 @@
+artifact_location: file:///C:/101 Mahcine Learning/Projects/Scikit-Learn/MLflow Experiment
+  Tracking/mlruns/517703834334992789
+creation_time: 1777264832073
+experiment_id: '517703834334992789'
+last_update_time: 1777264832073
+lifecycle_stage: active
+name: titanic-survival-prediction
+trace_location: null
+workspace: default

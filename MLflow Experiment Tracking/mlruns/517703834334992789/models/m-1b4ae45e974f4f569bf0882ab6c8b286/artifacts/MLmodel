@@ -1,0 +1,24 @@
+artifact_path: file:///C:/101 Mahcine Learning/Projects/Scikit-Learn/MLflow Experiment
+  Tracking/mlruns/517703834334992789/models/m-1b4ae45e974f4f569bf0882ab6c8b286/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-1b4ae45e974f4f569bf0882ab6c8b286
+model_size_bytes: 2403211
+model_uuid: m-1b4ae45e974f4f569bf0882ab6c8b286
+prompts: null
+run_id: 9874563b5b344bee9fbec1a09ba2d766
+utc_time_created: '2026-04-27 04:41:22.403604'

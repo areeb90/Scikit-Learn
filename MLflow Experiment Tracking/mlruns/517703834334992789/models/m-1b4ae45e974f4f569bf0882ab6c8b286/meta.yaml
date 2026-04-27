@@ -1,0 +1,11 @@
+artifact_location: file:///C:/101 Mahcine Learning/Projects/Scikit-Learn/MLflow Experiment
+  Tracking/mlruns/517703834334992789/models/m-1b4ae45e974f4f569bf0882ab6c8b286/artifacts
+creation_timestamp: 1777264882205
+experiment_id: '517703834334992789'
+last_updated_timestamp: 1777264886413
+model_id: m-1b4ae45e974f4f569bf0882ab6c8b286
+model_type: null
+name: titanic-rf-pipeline
+source_run_id: 9874563b5b344bee9fbec1a09ba2d766
+status: 2
+status_message: null
