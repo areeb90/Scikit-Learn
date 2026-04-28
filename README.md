@@ -10,3 +10,13 @@ The key finding was that gender and passenger class were the dominant survival p
 <img width="2534" height="1387" alt="image" src="https://github.com/user-attachments/assets/a8fe6a87-6631-4c2d-af52-6fbc81a02ccc" />
 
 <img width="2531" height="1378" alt="image" src="https://github.com/user-attachments/assets/5dd400a8-eed7-42be-8467-fb44e4a422b8" />
+
+
+---
+
+
+## Developer
+
+Areeb Bin Azim
+
+Computer Science / Cybersecurity / Generative AI / Software Engineer
