@@ -19,4 +19,4 @@ The key finding was that gender and passenger class were the dominant survival p
 
 Areeb Bin Azim
 
-Computer Science / Cybersecurity / Generative AI / Software Engineer
+Software Engineer /  Generative AI / Cybersecurity
