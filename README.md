@@ -14,9 +14,12 @@ The key finding was that gender and passenger class were the dominant survival p
 
 --- 
 
-### UPDATED UI
+## UPDATED UI
 
 <img width="2546" height="1397" alt="image" src="https://github.com/user-attachments/assets/575cd95f-6ecf-4ce2-b3e6-3b81d054027a" />
+
+<img width="2535" height="1401" alt="image" src="https://github.com/user-attachments/assets/c558de94-6b83-4c62-a61b-06ec574697f7" />
+
 
 
 ---
